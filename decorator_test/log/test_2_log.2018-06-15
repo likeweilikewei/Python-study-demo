@@ -1,0 +1,55 @@
+2018-06-15 09:42:57,556  - INFO - running function: test_2
+Arguments were: (<__main__.Test object at 0x000001A1448EF278>,), {'number1': 0}
+2018-06-15 09:42:57,556  - ERROR - function test_2 running error: Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 144, in log
+    result = func(*arg, **kwarg)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 173, in test_2
+    result = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-06-15 09:43:19,544  - INFO - running function: test_2
+Arguments were: (<__main__.Test object at 0x000001C927ADF2B0>,), {'number1': 1}
+2018-06-15 09:43:19,544  - INFO - 10.0
+2018-06-15 09:44:15,143  - INFO - running function: test_2
+Arguments were: (<__main__.Test object at 0x0000018723A10320>,), {'number1': 0}
+2018-06-15 09:44:15,143  - ERROR - function test_2 running error: Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 144, in log
+    result = func(*arg, **kwarg)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 173, in test_2
+    result = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-06-15 09:47:42,658  - INFO - running function: test_2
+Arguments were: (<__main__.Test object at 0x0000026F97E90358>,), {'number1': 0}
+2018-06-15 09:47:42,658  - ERROR - function test_2 running error: Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 144, in log
+    result = func(*arg, **kwarg)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 173, in test_2
+    result = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-06-15 09:48:55,603  - INFO - running function: test_2
+Arguments were: (<__main__.Test object at 0x0000029722DA0358>,), {'number1': 0}
+2018-06-15 09:48:55,604  - ERROR - function test_2 running error: Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 144, in log
+    result = func(*arg, **kwarg)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 174, in test_2
+    result = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-06-15 09:49:09,945  - INFO - running function: test_2
+Arguments were: (<__main__.Test object at 0x000001C77A8202E8>,), {'number1': 1}
+2018-06-15 09:49:09,945  - INFO - 10.0
+2018-06-15 09:50:03,489  - INFO - running function: test_2
+Arguments were: (<__main__.Test object at 0x000001CBF992F278>,), {'number1': 1}
+2018-06-15 09:50:03,489  - INFO - 10.0
+2018-06-15 09:51:57,159  - INFO - running function: test_2
+Arguments were: (<__main__.Test object at 0x000001FF33A0F278>,), {'number1': 1}
+2018-06-15 09:51:57,159  - INFO - 10.0
+2018-06-15 10:07:41,825  - INFO - running function: test_2
+Arguments were: (<__main__.Test object at 0x0000020D0B3584A8>,), {'number1': 1}
+2018-06-15 10:07:41,825  - INFO - 10.0

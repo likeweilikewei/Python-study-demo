@@ -1,0 +1,207 @@
+2018-05-18 09:41:46,577  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 09:41:46,577  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 54, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 65, in test_1
+    results = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-05-18 09:42:15,923  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 09:42:15,923  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 54, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 65, in test_1
+    results = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-05-18 09:45:36,078  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 09:45:36,079  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 57, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 68, in test_1
+    results = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-05-18 09:58:48,353  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 09:58:48,354  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 66, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 77, in test_1
+    results = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-05-18 09:59:28,918  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 09:59:28,918  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 66, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 77, in test_1
+    results = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-05-18 09:59:58,090  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 09:59:58,090  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 66, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 77, in test_1
+    results = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-05-18 10:00:28,757  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 10:00:28,758  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 66, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 77, in test_1
+    results = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-05-18 10:09:45,711  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 10:09:45,712  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/path/os.path.py", line 78, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/path/os.path.py", line 89, in test_1
+    results = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-05-18 10:09:56,595  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 10:09:56,596  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/path/os.path.py", line 78, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/path/os.path.py", line 89, in test_1
+    results = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-05-18 10:19:07,817  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 10:19:07,818  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/path/os.path.py", line 78, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/path/os.path.py", line 89, in test_1
+    results = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-05-18 20:25:57,847  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 20:25:57,850  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 78, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 89, in test_1
+    results = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-05-18 20:27:34,219  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 20:27:34,219  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 78, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 89, in test_1
+    results = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-05-18 20:29:29,065  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 20:29:29,066  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 78, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 89, in test_1
+    results = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
+2018-05-18 20:32:47,108  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:32:47,109  - INFO - 5.0
+2018-05-18 20:34:23,181  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:34:26,441  - INFO - 5.0
+2018-05-18 20:35:35,328  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:35:35,331  - INFO - 5.0
+2018-05-18 20:39:25,242  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:39:46,852  - INFO - 5.0
+2018-05-18 20:40:00,203  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:40:00,204  - INFO - 5.0
+2018-05-18 20:40:27,173  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:40:27,173  - INFO - 5.0
+2018-05-18 20:40:30,840  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:40:30,840  - INFO - 5.0
+2018-05-18 20:40:47,896  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:40:47,896  - INFO - 5.0
+2018-05-18 20:41:02,520  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:02,520  - INFO - 5.0
+2018-05-18 20:41:17,140  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:17,140  - INFO - 5.0
+2018-05-18 20:41:34,682  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:34,683  - INFO - 5.0
+2018-05-18 20:41:35,761  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:35,761  - INFO - 5.0
+2018-05-18 20:41:36,692  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:36,692  - INFO - 5.0
+2018-05-18 20:41:38,315  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:38,315  - INFO - 5.0
+2018-05-18 20:41:39,271  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:39,271  - INFO - 5.0
+2018-05-18 20:41:40,154  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:40,154  - INFO - 5.0
+2018-05-18 20:41:41,054  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:41,054  - INFO - 5.0
+2018-05-18 20:41:42,101  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:42,102  - INFO - 5.0
+2018-05-18 20:41:43,049  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:43,049  - INFO - 5.0
+2018-05-18 20:41:43,920  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:43,920  - INFO - 5.0
+2018-05-18 20:41:44,899  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:44,899  - INFO - 5.0
+2018-05-18 20:41:45,758  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:45,758  - INFO - 5.0
+2018-05-18 20:41:46,616  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:46,616  - INFO - 5.0
+2018-05-18 20:41:47,637  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:47,638  - INFO - 5.0
+2018-05-18 20:41:48,624  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:48,624  - INFO - 5.0
+2018-05-18 20:41:49,526  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:49,526  - INFO - 5.0
+2018-05-18 20:41:50,589  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:41:50,589  - INFO - 5.0
+2018-05-18 20:42:15,397  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:42:15,398  - INFO - 5.0
+2018-05-18 20:42:17,208  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:42:17,209  - INFO - 5.0
+2018-05-18 20:42:18,981  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:42:18,981  - INFO - 5.0
+2018-05-18 20:42:44,038  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:42:44,038  - INFO - 5.0
+2018-05-18 20:42:44,974  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:42:44,975  - INFO - 5.0
+2018-05-18 20:42:45,808  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:42:45,809  - INFO - 5.0
+2018-05-18 20:42:46,715  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:42:46,715  - INFO - 5.0
+2018-05-18 20:42:47,686  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:42:47,686  - INFO - 5.0
+2018-05-18 20:43:28,444  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 20:43:28,444  - INFO - 5.0
+2018-05-18 21:01:10,523  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 21:01:10,524  - INFO - 5.0
+2018-05-18 21:01:34,589  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 21:01:34,590  - INFO - 5.0
+2018-05-18 21:02:10,512  - INFO - Arguments were: (), {'number1': 2}
+2018-05-18 21:02:10,512  - INFO - 5.0
+2018-05-18 21:02:10,513  - INFO - running function: test_2
+Arguments were: (2,), {}
+2018-05-18 21:02:10,513  - INFO - 5.0
+2018-05-18 22:09:23,937  - INFO - Arguments were: (), {'number1': 0}
+2018-05-18 22:09:23,938  - ERROR - Traceback (most recent call last):
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 82, in real_func
+    result = func(*args, **kwargs)
+  File "D:/jiuniu chat/jiuniu_robot_lsi_class/tests/decorator_test/decorator_test.py", line 94, in test_1
+    result = 10 / number_tmp
+ZeroDivisionError: division by zero
+
+
